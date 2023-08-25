@@ -1,0 +1,61 @@
+* { font-family: fantasy;
+    color:blanchedalmond;
+}
+
+html {
+    background-color: rgba(76, 122, 96, 0.582);
+    color: blanchedalmond;
+}
+
+.form-check {
+    color: rgb(162, 193, 176);
+}
+
+.sticky-sm-bottom {
+    justify-content: space-evenly;
+}
+#camera1 {
+    margin-top: 15px;
+}
+#camera1 {
+    margin-top: 15px;
+    width: 100px;
+    height: 200px;
+}
+#camera2 {
+    margin-top: 15px;
+    width: 100px;
+    height: 200px;
+}
+#camera3 {
+    margin-top: 15px;
+    width: 100px;
+    height: 200px;
+}
+h1 {
+    border: 1px solid blanchedalmond;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+    color: blanchedalmond;
+}
+nav {
+    max-width: 100%;
+    /* z-index: 2000; */
+}
+
+#title-logo {
+    display: flex;
+    position: relative;
+    right: 20px;
+}
+
+#card-body {
+    padding: 10px;
+    justify-content: center;
+}
+#login-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
